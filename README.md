@@ -1,12 +1,12 @@
 # 3D_models
 
-<detail>
+<details>
   
 <summary>chassis</summary>
 
 ![chassis](./imgs&videos/chassis.jpg)
 
-</detail>
+</details>
 
 ## ackerman
 

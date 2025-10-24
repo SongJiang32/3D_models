@@ -10,9 +10,9 @@
 
 <details>
 
-<summary>ackerman</summary>
+<summary>ackermann</summary>
 
-![ackerman](./imgs&videos/ackerman.jpg)
+![ackermann](./imgs&videos/ackermann.jpg)
 
 </details>
 

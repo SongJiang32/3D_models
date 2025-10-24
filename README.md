@@ -1,17 +1,21 @@
 # 3D_models
 
-## chassis
+<detail>
+  
+<summary>chassis</summary>
 
 ![chassis](./imgs&videos/chassis.jpg)
 
+</detail>
+
 ## ackerman
 
-![ackerman]
+![ackerman](./imgs&videos/ackerman.jpg)
 
 ## SCARA
 
-![SCARA]
+![SCARA](./imgs&videos/SCARA.jpg)
 
 ## dexterousHand
 
-![dexterousHand]
+![dexterousHand](./imgs&videos/dexterousHand.jpg)

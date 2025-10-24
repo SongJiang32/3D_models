@@ -8,14 +8,27 @@
 
 </details>
 
-## ackerman
+<details>
+
+<summary>ackerman</summary>
 
 ![ackerman](./imgs&videos/ackerman.jpg)
 
-## SCARA
+</details>
+
+<details>
+
+<summary>SCARA</summary>
 
 ![SCARA](./imgs&videos/SCARA.jpg)
 
-## dexterousHand
+</details>
+
+<details>
+
+<summary>dexterousHand</summary>
 
 ![dexterousHand](./imgs&videos/dexterousHand.jpg)
+
+
+</details>

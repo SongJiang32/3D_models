@@ -2,7 +2,7 @@
 
 ## chassis
 
-![chassis](./chassis.jpg)
+![chassis](./imgs&videos/chassis.jpg)
 
 ## ackerman
 
